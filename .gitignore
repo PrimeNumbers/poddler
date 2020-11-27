@@ -123,3 +123,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+
+# all folders holding the pod data
+*/*
+
+# nunya
+# save a copy of subscribed_template.csv to subscribed.csv as a starting point
+subscribed.csv

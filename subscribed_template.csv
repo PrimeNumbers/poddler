@@ -1,0 +1,14 @@
+#commented or blank rows are fine
+
+#format as follows:
+#bool_subscribed,local_folder_name,url_to_feed
+
+0,not_subscribed_folder_name,https://location.to.feed.rss
+1,subscribed_folder_name,https://location.to.different.feed.com
+
+# archived old_pods
+0,archived_no_new_possible,https://where.it.was.located
+1,stay_subscribed_jic_a_new_one,https://where.it.was.located.last
+
+
+
