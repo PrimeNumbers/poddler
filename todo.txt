@@ -1,0 +1,15 @@
+add a function that checks to make sure the link is still good.
+	maybe: if there is at least 1 download in the pod_log
+		check to make sure at least 1 from the feed exists in the library
+			warn if none of the current titles exist in the library
+			also warn if the feed contains no titles
+
+
+create test cases for each python file
+
+
+add a simple gui
+
+
+update readme.md file to make it more approachable
+
