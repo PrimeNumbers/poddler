@@ -36,7 +36,7 @@ if __name__ == '__main__':
         download_backlog = True
 
         if len(new_titles) > 1:
-            get = input('Download {} episodes? (y or n): '.format(len(new_titles)))
+            get = input('Download backlog of {} episodes? (y or n): '.format(len(new_titles)))
             if get.lower() == 'y':
                 download_backlog = True
             else:
